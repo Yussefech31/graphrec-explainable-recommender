@@ -1,0 +1,1218 @@
+[
+  {
+    "user_id": 1,
+    "recommendations": [
+      {
+        "rank": 1,
+        "movie_id": 1552,
+        "title": "Con Air",
+        "year": 1997,
+        "genres": [
+          "Action",
+          "Adventure",
+          "Thriller"
+        ],
+        "affinity_score": 0.9976,
+        "narrative_explanation": "Recommended because you rated **Beauty and the Beast** (5.0\u2605), which stars **Johnny Depp**.",
+        "paths": [
+          {
+            "user_id": 1,
+            "recommended_movie_id": 1552,
+            "anchor_movie_id": 595,
+            "anchor_movie_title": "Beauty and the Beast",
+            "anchor_rating": 5.0,
+            "relation_type": "STARRING",
+            "connecting_entity_type": "Actor",
+            "connecting_entity_value": "Johnny Depp",
+            "path_score": 0.85
+          },
+          {
+            "user_id": 1,
+            "recommended_movie_id": 1552,
+            "anchor_movie_id": 2355,
+            "anchor_movie_title": "Bug's Life, A",
+            "anchor_rating": 5.0,
+            "relation_type": "STARRING",
+            "connecting_entity_type": "Actor",
+            "connecting_entity_value": "Johnny Depp",
+            "path_score": 0.85
+          },
+          {
+            "user_id": 1,
+            "recommended_movie_id": 1552,
+            "anchor_movie_id": 1207,
+            "anchor_movie_title": "To Kill a Mockingbird",
+            "anchor_rating": 4.0,
+            "relation_type": "DIRECTED_BY",
+            "connecting_entity_type": "Director",
+            "connecting_entity_value": "Cameron Crowe",
+            "path_score": 0.8
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "movie_id": 457,
+        "title": "Fugitive, The",
+        "year": 1993,
+        "genres": [
+          "Action",
+          "Thriller"
+        ],
+        "affinity_score": 0.9975,
+        "narrative_explanation": "Recommended because you rated **Cinderella** (5.0\u2605), which stars **John Cusack**.",
+        "paths": [
+          {
+            "user_id": 1,
+            "recommended_movie_id": 457,
+            "anchor_movie_id": 1022,
+            "anchor_movie_title": "Cinderella",
+            "anchor_rating": 5.0,
+            "relation_type": "STARRING",
+            "connecting_entity_type": "Actor",
+            "connecting_entity_value": "John Cusack",
+            "path_score": 0.85
+          },
+          {
+            "user_id": 1,
+            "recommended_movie_id": 457,
+            "anchor_movie_id": 1193,
+            "anchor_movie_title": "One Flew Over the Cuckoo's Nest",
+            "anchor_rating": 5.0,
+            "relation_type": "STARRING",
+            "connecting_entity_type": "Actor",
+            "connecting_entity_value": "Jeff Goldblum",
+            "path_score": 0.85
+          },
+          {
+            "user_id": 1,
+            "recommended_movie_id": 457,
+            "anchor_movie_id": 1193,
+            "anchor_movie_title": "One Flew Over the Cuckoo's Nest",
+            "anchor_rating": 5.0,
+            "relation_type": "STARRING",
+            "connecting_entity_type": "Actor",
+            "connecting_entity_value": "John Cusack",
+            "path_score": 0.85
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "movie_id": 368,
+        "title": "Maverick",
+        "year": 1994,
+        "genres": [
+          "Action",
+          "Comedy",
+          "Western"
+        ],
+        "affinity_score": 0.9975,
+        "narrative_explanation": "Recommended because you rated **One Flew Over the Cuckoo's Nest** (5.0\u2605), which was also directed by **Brian De Palma**.",
+        "paths": [
+          {
+            "user_id": 1,
+            "recommended_movie_id": 368,
+            "anchor_movie_id": 1193,
+            "anchor_movie_title": "One Flew Over the Cuckoo's Nest",
+            "anchor_rating": 5.0,
+            "relation_type": "DIRECTED_BY",
+            "connecting_entity_type": "Director",
+            "connecting_entity_value": "Brian De Palma",
+            "path_score": 1.0
+          },
+          {
+            "user_id": 1,
+            "recommended_movie_id": 368,
+            "anchor_movie_id": 1028,
+            "anchor_movie_title": "Mary Poppins",
+            "anchor_rating": 5.0,
+            "relation_type": "DIRECTED_BY",
+            "connecting_entity_type": "Director",
+            "connecting_entity_value": "Brian De Palma",
+            "path_score": 1.0
+          },
+          {
+            "user_id": 1,
+            "recommended_movie_id": 368,
+            "anchor_movie_id": 595,
+            "anchor_movie_title": "Beauty and the Beast",
+            "anchor_rating": 5.0,
+            "relation_type": "STARRING",
+            "connecting_entity_type": "Actor",
+            "connecting_entity_value": "Johnny Depp",
+            "path_score": 0.85
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "movie_id": 1544,
+        "title": "Lost World: Jurassic Park, The",
+        "year": 1997,
+        "genres": [
+          "Action",
+          "Adventure",
+          "Sci-Fi",
+          "Thriller"
+        ],
+        "affinity_score": 0.9975,
+        "narrative_explanation": "Recommended because you rated **Saving Private Ryan** (5.0\u2605), which was also directed by **Steven Spielberg**.",
+        "paths": [
+          {
+            "user_id": 1,
+            "recommended_movie_id": 1544,
+            "anchor_movie_id": 2028,
+            "anchor_movie_title": "Saving Private Ryan",
+            "anchor_rating": 5.0,
+            "relation_type": "DIRECTED_BY",
+            "connecting_entity_type": "Director",
+            "connecting_entity_value": "Steven Spielberg",
+            "path_score": 1.0
+          },
+          {
+            "user_id": 1,
+            "recommended_movie_id": 1544,
+            "anchor_movie_id": 527,
+            "anchor_movie_title": "Schindler's List",
+            "anchor_rating": 5.0,
+            "relation_type": "DIRECTED_BY",
+            "connecting_entity_type": "Director",
+            "connecting_entity_value": "Steven Spielberg",
+            "path_score": 1.0
+          },
+          {
+            "user_id": 1,
+            "recommended_movie_id": 1544,
+            "anchor_movie_id": 1193,
+            "anchor_movie_title": "One Flew Over the Cuckoo's Nest",
+            "anchor_rating": 5.0,
+            "relation_type": "STARRING",
+            "connecting_entity_type": "Actor",
+            "connecting_entity_value": "Jeff Goldblum",
+            "path_score": 0.85
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "movie_id": 3421,
+        "title": "Animal House",
+        "year": 1978,
+        "genres": [
+          "Comedy"
+        ],
+        "affinity_score": 0.9975,
+        "narrative_explanation": "Recommended because you rated **Cinderella** (5.0\u2605), which stars **Keanu Reeves**.",
+        "paths": [
+          {
+            "user_id": 1,
+            "recommended_movie_id": 3421,
+            "anchor_movie_id": 1022,
+            "anchor_movie_title": "Cinderella",
+            "anchor_rating": 5.0,
+            "relation_type": "STARRING",
+            "connecting_entity_type": "Actor",
+            "connecting_entity_value": "Keanu Reeves",
+            "path_score": 0.85
+          },
+          {
+            "user_id": 1,
+            "recommended_movie_id": 3421,
+            "anchor_movie_id": 1246,
+            "anchor_movie_title": "Dead Poets Society",
+            "anchor_rating": 4.0,
+            "relation_type": "DIRECTED_BY",
+            "connecting_entity_type": "Director",
+            "connecting_entity_value": "Ron Howard",
+            "path_score": 0.8
+          },
+          {
+            "user_id": 1,
+            "recommended_movie_id": 3421,
+            "anchor_movie_id": 2791,
+            "anchor_movie_title": "Airplane!",
+            "anchor_rating": 4.0,
+            "relation_type": "DIRECTED_BY",
+            "connecting_entity_type": "Director",
+            "connecting_entity_value": "Ron Howard",
+            "path_score": 0.8
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user_id": 2,
+    "recommendations": [
+      {
+        "rank": 1,
+        "movie_id": 608,
+        "title": "Fargo",
+        "year": 1996,
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ],
+        "affinity_score": 0.9976,
+        "narrative_explanation": "Recommended because you enjoyed **Gandhi** (5.0\u2605), sharing genre (Drama, Drama) with **Fargo**.",
+        "paths": [
+          {
+            "user_id": 2,
+            "recommended_movie_id": 608,
+            "anchor_movie_id": 1293,
+            "anchor_movie_title": "Gandhi",
+            "anchor_rating": 5.0,
+            "relation_type": "HAS_GENRE",
+            "connecting_entity_type": "Genre",
+            "connecting_entity_value": "Drama",
+            "path_score": 0.5
+          },
+          {
+            "user_id": 2,
+            "recommended_movie_id": 608,
+            "anchor_movie_id": 1225,
+            "anchor_movie_title": "Amadeus",
+            "anchor_rating": 5.0,
+            "relation_type": "HAS_GENRE",
+            "connecting_entity_type": "Genre",
+            "connecting_entity_value": "Drama",
+            "path_score": 0.5
+          },
+          {
+            "user_id": 2,
+            "recommended_movie_id": 608,
+            "anchor_movie_id": 1193,
+            "anchor_movie_title": "One Flew Over the Cuckoo's Nest",
+            "anchor_rating": 5.0,
+            "relation_type": "HAS_GENRE",
+            "connecting_entity_type": "Genre",
+            "connecting_entity_value": "Drama",
+            "path_score": 0.5
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "movie_id": 329,
+        "title": "Star Trek: Generations",
+        "year": 1994,
+        "genres": [
+          "Action",
+          "Adventure",
+          "Sci-Fi"
+        ],
+        "affinity_score": 0.9974,
+        "narrative_explanation": "Recommended because you rated **As Good As It Gets** (5.0\u2605), which was also directed by **Penny Marshall**.",
+        "paths": [
+          {
+            "user_id": 2,
+            "recommended_movie_id": 329,
+            "anchor_movie_id": 1784,
+            "anchor_movie_title": "As Good As It Gets",
+            "anchor_rating": 5.0,
+            "relation_type": "DIRECTED_BY",
+            "connecting_entity_type": "Director",
+            "connecting_entity_value": "Penny Marshall",
+            "path_score": 1.0
+          },
+          {
+            "user_id": 2,
+            "recommended_movie_id": 329,
+            "anchor_movie_id": 1124,
+            "anchor_movie_title": "On Golden Pond",
+            "anchor_rating": 5.0,
+            "relation_type": "DIRECTED_BY",
+            "connecting_entity_type": "Director",
+            "connecting_entity_value": "Penny Marshall",
+            "path_score": 1.0
+          },
+          {
+            "user_id": 2,
+            "recommended_movie_id": 329,
+            "anchor_movie_id": 1225,
+            "anchor_movie_title": "Amadeus",
+            "anchor_rating": 5.0,
+            "relation_type": "STARRING",
+            "connecting_entity_type": "Actor",
+            "connecting_entity_value": "Jeff Goldblum",
+            "path_score": 0.85
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "movie_id": 2692,
+        "title": "Run Lola Run (Lola rennt)",
+        "year": 1998,
+        "genres": [
+          "Action",
+          "Crime",
+          "Romance"
+        ],
+        "affinity_score": 0.9973,
+        "narrative_explanation": "Recommended because you rated **Shine** (5.0\u2605), which was also directed by **Cameron Crowe**.",
+        "paths": [
+          {
+            "user_id": 2,
+            "recommended_movie_id": 2692,
+            "anchor_movie_id": 1357,
+            "anchor_movie_title": "Shine",
+            "anchor_rating": 5.0,
+            "relation_type": "DIRECTED_BY",
+            "connecting_entity_type": "Director",
+            "connecting_entity_value": "Cameron Crowe",
+            "path_score": 1.0
+          },
+          {
+            "user_id": 2,
+            "recommended_movie_id": 2692,
+            "anchor_movie_id": 1957,
+            "anchor_movie_title": "Chariots of Fire",
+            "anchor_rating": 5.0,
+            "relation_type": "DIRECTED_BY",
+            "connecting_entity_type": "Director",
+            "connecting_entity_value": "Cameron Crowe",
+            "path_score": 1.0
+          },
+          {
+            "user_id": 2,
+            "recommended_movie_id": 2692,
+            "anchor_movie_id": 2002,
+            "anchor_movie_title": "Lethal Weapon 3",
+            "anchor_rating": 5.0,
+            "relation_type": "DIRECTED_BY",
+            "connecting_entity_type": "Director",
+            "connecting_entity_value": "Cameron Crowe",
+            "path_score": 1.0
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "movie_id": 2762,
+        "title": "Sixth Sense, The",
+        "year": 1999,
+        "genres": [
+          "Thriller"
+        ],
+        "affinity_score": 0.9972,
+        "narrative_explanation": "Recommended because you rated **Die Hard 2** (5.0\u2605), which stars **Bruce Willis**.",
+        "paths": [
+          {
+            "user_id": 2,
+            "recommended_movie_id": 2762,
+            "anchor_movie_id": 1370,
+            "anchor_movie_title": "Die Hard 2",
+            "anchor_rating": 5.0,
+            "relation_type": "STARRING",
+            "connecting_entity_type": "Actor",
+            "connecting_entity_value": "Bruce Willis",
+            "path_score": 0.85
+          },
+          {
+            "user_id": 2,
+            "recommended_movie_id": 2762,
+            "anchor_movie_id": 1873,
+            "anchor_movie_title": "Mis\u00e9rables, Les",
+            "anchor_rating": 4.0,
+            "relation_type": "STARRING",
+            "connecting_entity_type": "Actor",
+            "connecting_entity_value": "Bruce Willis",
+            "path_score": 0.68
+          },
+          {
+            "user_id": 2,
+            "recommended_movie_id": 2762,
+            "anchor_movie_id": 3418,
+            "anchor_movie_title": "Thelma & Louise",
+            "anchor_rating": 4.0,
+            "relation_type": "STARRING",
+            "connecting_entity_type": "Actor",
+            "connecting_entity_value": "Bruce Willis",
+            "path_score": 0.68
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "movie_id": 2617,
+        "title": "Mummy, The",
+        "year": 1999,
+        "genres": [
+          "Action",
+          "Adventure",
+          "Horror",
+          "Thriller"
+        ],
+        "affinity_score": 0.9972,
+        "narrative_explanation": "Recommended because you rated **Shine** (5.0\u2605), which was also directed by **Cameron Crowe**.",
+        "paths": [
+          {
+            "user_id": 2,
+            "recommended_movie_id": 2617,
+            "anchor_movie_id": 1357,
+            "anchor_movie_title": "Shine",
+            "anchor_rating": 5.0,
+            "relation_type": "DIRECTED_BY",
+            "connecting_entity_type": "Director",
+            "connecting_entity_value": "Cameron Crowe",
+            "path_score": 1.0
+          },
+          {
+            "user_id": 2,
+            "recommended_movie_id": 2617,
+            "anchor_movie_id": 1957,
+            "anchor_movie_title": "Chariots of Fire",
+            "anchor_rating": 5.0,
+            "relation_type": "DIRECTED_BY",
+            "connecting_entity_type": "Director",
+            "connecting_entity_value": "Cameron Crowe",
+            "path_score": 1.0
+          },
+          {
+            "user_id": 2,
+            "recommended_movie_id": 2617,
+            "anchor_movie_id": 2002,
+            "anchor_movie_title": "Lethal Weapon 3",
+            "anchor_rating": 5.0,
+            "relation_type": "DIRECTED_BY",
+            "connecting_entity_type": "Director",
+            "connecting_entity_value": "Cameron Crowe",
+            "path_score": 1.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user_id": 8,
+    "recommendations": [
+      {
+        "rank": 1,
+        "movie_id": 339,
+        "title": "While You Were Sleeping",
+        "year": 1995,
+        "genres": [
+          "Comedy",
+          "Romance"
+        ],
+        "affinity_score": 0.9963,
+        "narrative_explanation": "Recommended because you rated **Buffalo 66** (5.0\u2605), which stars **Brad Pitt**.",
+        "paths": [
+          {
+            "user_id": 8,
+            "recommended_movie_id": 339,
+            "anchor_movie_id": 1916,
+            "anchor_movie_title": "Buffalo 66",
+            "anchor_rating": 5.0,
+            "relation_type": "STARRING",
+            "connecting_entity_type": "Actor",
+            "connecting_entity_value": "Brad Pitt",
+            "path_score": 0.85
+          },
+          {
+            "user_id": 8,
+            "recommended_movie_id": 339,
+            "anchor_movie_id": 2396,
+            "anchor_movie_title": "Shakespeare in Love",
+            "anchor_rating": 5.0,
+            "relation_type": "STARRING",
+            "connecting_entity_type": "Actor",
+            "connecting_entity_value": "Brad Pitt",
+            "path_score": 0.85
+          },
+          {
+            "user_id": 8,
+            "recommended_movie_id": 339,
+            "anchor_movie_id": 2291,
+            "anchor_movie_title": "Edward Scissorhands",
+            "anchor_rating": 5.0,
+            "relation_type": "STARRING",
+            "connecting_entity_type": "Actor",
+            "connecting_entity_value": "Johnny Depp",
+            "path_score": 0.85
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "movie_id": 3704,
+        "title": "Mad Max Beyond Thunderdome",
+        "year": 1985,
+        "genres": [
+          "Action",
+          "Sci-Fi"
+        ],
+        "affinity_score": 0.9941,
+        "narrative_explanation": "Recommended because you rated **Arachnophobia** (5.0\u2605), which was also directed by **Penny Marshall**.",
+        "paths": [
+          {
+            "user_id": 8,
+            "recommended_movie_id": 3704,
+            "anchor_movie_id": 2699,
+            "anchor_movie_title": "Arachnophobia",
+            "anchor_rating": 5.0,
+            "relation_type": "DIRECTED_BY",
+            "connecting_entity_type": "Director",
+            "connecting_entity_value": "Penny Marshall",
+            "path_score": 1.0
+          },
+          {
+            "user_id": 8,
+            "recommended_movie_id": 3704,
+            "anchor_movie_id": 524,
+            "anchor_movie_title": "Rudy",
+            "anchor_rating": 5.0,
+            "relation_type": "DIRECTED_BY",
+            "connecting_entity_type": "Director",
+            "connecting_entity_value": "Penny Marshall",
+            "path_score": 1.0
+          },
+          {
+            "user_id": 8,
+            "recommended_movie_id": 3704,
+            "anchor_movie_id": 1274,
+            "anchor_movie_title": "Akira",
+            "anchor_rating": 5.0,
+            "relation_type": "DIRECTED_BY",
+            "connecting_entity_type": "Director",
+            "connecting_entity_value": "Penny Marshall",
+            "path_score": 1.0
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "movie_id": 1092,
+        "title": "Basic Instinct",
+        "year": 1992,
+        "genres": [
+          "Mystery",
+          "Thriller"
+        ],
+        "affinity_score": 0.9939,
+        "narrative_explanation": "Recommended because you rated **Thin Red Line, The** (5.0\u2605), which was also directed by **David Lynch**.",
+        "paths": [
+          {
+            "user_id": 8,
+            "recommended_movie_id": 1092,
+            "anchor_movie_id": 2427,
+            "anchor_movie_title": "Thin Red Line, The",
+            "anchor_rating": 5.0,
+            "relation_type": "DIRECTED_BY",
+            "connecting_entity_type": "Director",
+            "connecting_entity_value": "David Lynch",
+            "path_score": 1.0
+          },
+          {
+            "user_id": 8,
+            "recommended_movie_id": 1092,
+            "anchor_movie_id": 3267,
+            "anchor_movie_title": "Mariachi, El",
+            "anchor_rating": 5.0,
+            "relation_type": "DIRECTED_BY",
+            "connecting_entity_type": "Director",
+            "connecting_entity_value": "David Lynch",
+            "path_score": 1.0
+          },
+          {
+            "user_id": 8,
+            "recommended_movie_id": 1092,
+            "anchor_movie_id": 2692,
+            "anchor_movie_title": "Run Lola Run (Lola rennt)",
+            "anchor_rating": 5.0,
+            "relation_type": "STARRING",
+            "connecting_entity_type": "Actor",
+            "connecting_entity_value": "Gary Oldman",
+            "path_score": 0.85
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "movie_id": 3334,
+        "title": "Key Largo",
+        "year": 1948,
+        "genres": [
+          "Crime",
+          "Drama",
+          "Film-Noir",
+          "Thriller"
+        ],
+        "affinity_score": 0.9934,
+        "narrative_explanation": "Recommended because you rated **Chasing Amy** (5.0\u2605), which was also directed by **George Miller**.",
+        "paths": [
+          {
+            "user_id": 8,
+            "recommended_movie_id": 3334,
+            "anchor_movie_id": 1639,
+            "anchor_movie_title": "Chasing Amy",
+            "anchor_rating": 5.0,
+            "relation_type": "DIRECTED_BY",
+            "connecting_entity_type": "Director",
+            "connecting_entity_value": "George Miller",
+            "path_score": 1.0
+          },
+          {
+            "user_id": 8,
+            "recommended_movie_id": 3334,
+            "anchor_movie_id": 2329,
+            "anchor_movie_title": "American History X",
+            "anchor_rating": 5.0,
+            "relation_type": "DIRECTED_BY",
+            "connecting_entity_type": "Director",
+            "connecting_entity_value": "George Miller",
+            "path_score": 1.0
+          },
+          {
+            "user_id": 8,
+            "recommended_movie_id": 3334,
+            "anchor_movie_id": 3265,
+            "anchor_movie_title": "Hard-Boiled (Lashou shentan)",
+            "anchor_rating": 5.0,
+            "relation_type": "STARRING",
+            "connecting_entity_type": "Actor",
+            "connecting_entity_value": "Kevin Spacey",
+            "path_score": 0.85
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "movie_id": 923,
+        "title": "Citizen Kane",
+        "year": 1941,
+        "genres": [
+          "Drama"
+        ],
+        "affinity_score": 0.9932,
+        "narrative_explanation": "Recommended because you rated **Boogie Nights** (5.0\u2605), which was also directed by **Brian De Palma**.",
+        "paths": [
+          {
+            "user_id": 8,
+            "recommended_movie_id": 923,
+            "anchor_movie_id": 1673,
+            "anchor_movie_title": "Boogie Nights",
+            "anchor_rating": 5.0,
+            "relation_type": "DIRECTED_BY",
+            "connecting_entity_type": "Director",
+            "connecting_entity_value": "Brian De Palma",
+            "path_score": 1.0
+          },
+          {
+            "user_id": 8,
+            "recommended_movie_id": 923,
+            "anchor_movie_id": 111,
+            "anchor_movie_title": "Taxi Driver",
+            "anchor_rating": 5.0,
+            "relation_type": "STARRING",
+            "connecting_entity_type": "Actor",
+            "connecting_entity_value": "Jodie Foster",
+            "path_score": 0.85
+          },
+          {
+            "user_id": 8,
+            "recommended_movie_id": 923,
+            "anchor_movie_id": 2427,
+            "anchor_movie_title": "Thin Red Line, The",
+            "anchor_rating": 5.0,
+            "relation_type": "STARRING",
+            "connecting_entity_type": "Actor",
+            "connecting_entity_value": "Kate Winslet",
+            "path_score": 0.85
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user_id": 15,
+    "recommendations": [
+      {
+        "rank": 1,
+        "movie_id": 1097,
+        "title": "E.T. the Extra-Terrestrial",
+        "year": 1982,
+        "genres": [
+          "Children's",
+          "Drama",
+          "Fantasy",
+          "Sci-Fi"
+        ],
+        "affinity_score": 0.9964,
+        "narrative_explanation": "Recommended because you rated **Patriot, The** (5.0\u2605), which stars **Jeff Goldblum**.",
+        "paths": [
+          {
+            "user_id": 15,
+            "recommended_movie_id": 1097,
+            "anchor_movie_id": 3753,
+            "anchor_movie_title": "Patriot, The",
+            "anchor_rating": 5.0,
+            "relation_type": "STARRING",
+            "connecting_entity_type": "Actor",
+            "connecting_entity_value": "Jeff Goldblum",
+            "path_score": 0.85
+          },
+          {
+            "user_id": 15,
+            "recommended_movie_id": 1097,
+            "anchor_movie_id": 3753,
+            "anchor_movie_title": "Patriot, The",
+            "anchor_rating": 5.0,
+            "relation_type": "STARRING",
+            "connecting_entity_type": "Actor",
+            "connecting_entity_value": "John Cusack",
+            "path_score": 0.85
+          },
+          {
+            "user_id": 15,
+            "recommended_movie_id": 1097,
+            "anchor_movie_id": 1487,
+            "anchor_movie_title": "Selena",
+            "anchor_rating": 4.0,
+            "relation_type": "DIRECTED_BY",
+            "connecting_entity_type": "Director",
+            "connecting_entity_value": "Barry Levinson",
+            "path_score": 0.8
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "movie_id": 1282,
+        "title": "Fantasia",
+        "year": 1940,
+        "genres": [
+          "Animation",
+          "Children's",
+          "Musical"
+        ],
+        "affinity_score": 0.9964,
+        "narrative_explanation": "Recommended because you rated **Gladiator** (5.0\u2605), which stars **Russell Crowe**.",
+        "paths": [
+          {
+            "user_id": 15,
+            "recommended_movie_id": 1282,
+            "anchor_movie_id": 3578,
+            "anchor_movie_title": "Gladiator",
+            "anchor_rating": 5.0,
+            "relation_type": "STARRING",
+            "connecting_entity_type": "Actor",
+            "connecting_entity_value": "Russell Crowe",
+            "path_score": 0.85
+          },
+          {
+            "user_id": 15,
+            "recommended_movie_id": 1282,
+            "anchor_movie_id": 3753,
+            "anchor_movie_title": "Patriot, The",
+            "anchor_rating": 5.0,
+            "relation_type": "STARRING",
+            "connecting_entity_type": "Actor",
+            "connecting_entity_value": "Jeff Goldblum",
+            "path_score": 0.85
+          },
+          {
+            "user_id": 15,
+            "recommended_movie_id": 1282,
+            "anchor_movie_id": 2707,
+            "anchor_movie_title": "Arlington Road",
+            "anchor_rating": 4.0,
+            "relation_type": "DIRECTED_BY",
+            "connecting_entity_type": "Director",
+            "connecting_entity_value": "Cameron Crowe",
+            "path_score": 0.8
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "movie_id": 2369,
+        "title": "Desperately Seeking Susan",
+        "year": 1985,
+        "genres": [
+          "Comedy",
+          "Romance"
+        ],
+        "affinity_score": 0.9963,
+        "narrative_explanation": "Recommended because you rated **Rudy** (4.0\u2605), which was also directed by **Penny Marshall**.",
+        "paths": [
+          {
+            "user_id": 15,
+            "recommended_movie_id": 2369,
+            "anchor_movie_id": 524,
+            "anchor_movie_title": "Rudy",
+            "anchor_rating": 4.0,
+            "relation_type": "DIRECTED_BY",
+            "connecting_entity_type": "Director",
+            "connecting_entity_value": "Penny Marshall",
+            "path_score": 0.8
+          },
+          {
+            "user_id": 15,
+            "recommended_movie_id": 2369,
+            "anchor_movie_id": 104,
+            "anchor_movie_title": "Happy Gilmore",
+            "anchor_rating": 4.0,
+            "relation_type": "DIRECTED_BY",
+            "connecting_entity_type": "Director",
+            "connecting_entity_value": "Penny Marshall",
+            "path_score": 0.8
+          },
+          {
+            "user_id": 15,
+            "recommended_movie_id": 2369,
+            "anchor_movie_id": 539,
+            "anchor_movie_title": "Sleepless in Seattle",
+            "anchor_rating": 4.0,
+            "relation_type": "DIRECTED_BY",
+            "connecting_entity_type": "Director",
+            "connecting_entity_value": "Penny Marshall",
+            "path_score": 0.8
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "movie_id": 1219,
+        "title": "Psycho",
+        "year": 1960,
+        "genres": [
+          "Horror",
+          "Thriller"
+        ],
+        "affinity_score": 0.9962,
+        "narrative_explanation": "Recommended because you rated **Psycho** (4.0\u2605), which was also directed by **Alfred Hitchcock**.",
+        "paths": [
+          {
+            "user_id": 15,
+            "recommended_movie_id": 1219,
+            "anchor_movie_id": 2389,
+            "anchor_movie_title": "Psycho",
+            "anchor_rating": 4.0,
+            "relation_type": "DIRECTED_BY",
+            "connecting_entity_type": "Director",
+            "connecting_entity_value": "Alfred Hitchcock",
+            "path_score": 0.8
+          },
+          {
+            "user_id": 15,
+            "recommended_movie_id": 1219,
+            "anchor_movie_id": 2389,
+            "anchor_movie_title": "Psycho",
+            "anchor_rating": 4.0,
+            "relation_type": "STARRING",
+            "connecting_entity_type": "Actor",
+            "connecting_entity_value": "Anthony Perkins",
+            "path_score": 0.68
+          },
+          {
+            "user_id": 15,
+            "recommended_movie_id": 1219,
+            "anchor_movie_id": 2389,
+            "anchor_movie_title": "Psycho",
+            "anchor_rating": 4.0,
+            "relation_type": "STARRING",
+            "connecting_entity_type": "Actor",
+            "connecting_entity_value": "Janet Leigh",
+            "path_score": 0.68
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "movie_id": 2355,
+        "title": "Bug's Life, A",
+        "year": 1998,
+        "genres": [
+          "Animation",
+          "Children's",
+          "Comedy"
+        ],
+        "affinity_score": 0.9961,
+        "narrative_explanation": "Recommended because you rated **Payback** (4.0\u2605), which was also directed by **Sydney Pollack**.",
+        "paths": [
+          {
+            "user_id": 15,
+            "recommended_movie_id": 2355,
+            "anchor_movie_id": 2490,
+            "anchor_movie_title": "Payback",
+            "anchor_rating": 4.0,
+            "relation_type": "DIRECTED_BY",
+            "connecting_entity_type": "Director",
+            "connecting_entity_value": "Sydney Pollack",
+            "path_score": 0.8
+          },
+          {
+            "user_id": 15,
+            "recommended_movie_id": 2355,
+            "anchor_movie_id": 300,
+            "anchor_movie_title": "Quiz Show",
+            "anchor_rating": 4.0,
+            "relation_type": "DIRECTED_BY",
+            "connecting_entity_type": "Director",
+            "connecting_entity_value": "Sydney Pollack",
+            "path_score": 0.8
+          },
+          {
+            "user_id": 15,
+            "recommended_movie_id": 2355,
+            "anchor_movie_id": 2115,
+            "anchor_movie_title": "Indiana Jones and the Temple of Doom",
+            "anchor_rating": 4.0,
+            "relation_type": "DIRECTED_BY",
+            "connecting_entity_type": "Director",
+            "connecting_entity_value": "Sydney Pollack",
+            "path_score": 0.8
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user_id": 48,
+    "recommendations": [
+      {
+        "rank": 1,
+        "movie_id": 904,
+        "title": "Rear Window",
+        "year": 1954,
+        "genres": [
+          "Mystery",
+          "Thriller"
+        ],
+        "affinity_score": 0.9971,
+        "narrative_explanation": "Recommended because you rated **Vertigo** (4.0\u2605), which was also directed by **Alfred Hitchcock**.",
+        "paths": [
+          {
+            "user_id": 48,
+            "recommended_movie_id": 904,
+            "anchor_movie_id": 903,
+            "anchor_movie_title": "Vertigo",
+            "anchor_rating": 4.0,
+            "relation_type": "DIRECTED_BY",
+            "connecting_entity_type": "Director",
+            "connecting_entity_value": "Alfred Hitchcock",
+            "path_score": 0.8
+          },
+          {
+            "user_id": 48,
+            "recommended_movie_id": 904,
+            "anchor_movie_id": 1219,
+            "anchor_movie_title": "Psycho",
+            "anchor_rating": 4.0,
+            "relation_type": "DIRECTED_BY",
+            "connecting_entity_type": "Director",
+            "connecting_entity_value": "Alfred Hitchcock",
+            "path_score": 0.8
+          },
+          {
+            "user_id": 48,
+            "recommended_movie_id": 904,
+            "anchor_movie_id": 903,
+            "anchor_movie_title": "Vertigo",
+            "anchor_rating": 4.0,
+            "relation_type": "STARRING",
+            "connecting_entity_type": "Actor",
+            "connecting_entity_value": "James Stewart",
+            "path_score": 0.68
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "movie_id": 3755,
+        "title": "Perfect Storm, The",
+        "year": 2000,
+        "genres": [
+          "Action",
+          "Adventure",
+          "Thriller"
+        ],
+        "affinity_score": 0.997,
+        "narrative_explanation": "Recommended because you rated **Bridge on the River Kwai, The** (5.0\u2605), which was also directed by **Woody Allen**.",
+        "paths": [
+          {
+            "user_id": 48,
+            "recommended_movie_id": 3755,
+            "anchor_movie_id": 1250,
+            "anchor_movie_title": "Bridge on the River Kwai, The",
+            "anchor_rating": 5.0,
+            "relation_type": "DIRECTED_BY",
+            "connecting_entity_type": "Director",
+            "connecting_entity_value": "Woody Allen",
+            "path_score": 1.0
+          },
+          {
+            "user_id": 48,
+            "recommended_movie_id": 3755,
+            "anchor_movie_id": 2628,
+            "anchor_movie_title": "Star Wars: Episode I - The Phantom Menace",
+            "anchor_rating": 5.0,
+            "relation_type": "STARRING",
+            "connecting_entity_type": "Actor",
+            "connecting_entity_value": "Gary Oldman",
+            "path_score": 0.85
+          },
+          {
+            "user_id": 48,
+            "recommended_movie_id": 3755,
+            "anchor_movie_id": 1610,
+            "anchor_movie_title": "Hunt for Red October, The",
+            "anchor_rating": 4.0,
+            "relation_type": "DIRECTED_BY",
+            "connecting_entity_type": "Director",
+            "connecting_entity_value": "Woody Allen",
+            "path_score": 0.8
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "movie_id": 2080,
+        "title": "Lady and the Tramp",
+        "year": 1955,
+        "genres": [
+          "Animation",
+          "Children's",
+          "Comedy",
+          "Musical",
+          "Romance"
+        ],
+        "affinity_score": 0.9969,
+        "narrative_explanation": "Recommended because you rated **Singin' in the Rain** (5.0\u2605), which stars **Morgan Freeman**.",
+        "paths": [
+          {
+            "user_id": 48,
+            "recommended_movie_id": 2080,
+            "anchor_movie_id": 899,
+            "anchor_movie_title": "Singin' in the Rain",
+            "anchor_rating": 5.0,
+            "relation_type": "STARRING",
+            "connecting_entity_type": "Actor",
+            "connecting_entity_value": "Morgan Freeman",
+            "path_score": 0.85
+          },
+          {
+            "user_id": 48,
+            "recommended_movie_id": 2080,
+            "anchor_movie_id": 3363,
+            "anchor_movie_title": "American Graffiti",
+            "anchor_rating": 5.0,
+            "relation_type": "STARRING",
+            "connecting_entity_type": "Actor",
+            "connecting_entity_value": "Morgan Freeman",
+            "path_score": 0.85
+          },
+          {
+            "user_id": 48,
+            "recommended_movie_id": 2080,
+            "anchor_movie_id": 3745,
+            "anchor_movie_title": "Titan A.E.",
+            "anchor_rating": 4.0,
+            "relation_type": "DIRECTED_BY",
+            "connecting_entity_type": "Director",
+            "connecting_entity_value": "Paul Verhoeven",
+            "path_score": 0.8
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "movie_id": 3174,
+        "title": "Man on the Moon",
+        "year": 1999,
+        "genres": [
+          "Comedy",
+          "Drama"
+        ],
+        "affinity_score": 0.9969,
+        "narrative_explanation": "Recommended because you rated **X-Files: Fight the Future, The** (5.0\u2605), which stars **Harrison Ford**.",
+        "paths": [
+          {
+            "user_id": 48,
+            "recommended_movie_id": 3174,
+            "anchor_movie_id": 1909,
+            "anchor_movie_title": "X-Files: Fight the Future, The",
+            "anchor_rating": 5.0,
+            "relation_type": "STARRING",
+            "connecting_entity_type": "Actor",
+            "connecting_entity_value": "Harrison Ford",
+            "path_score": 0.85
+          },
+          {
+            "user_id": 48,
+            "recommended_movie_id": 3174,
+            "anchor_movie_id": 1196,
+            "anchor_movie_title": "Star Wars: Episode V - The Empire Strikes Back",
+            "anchor_rating": 5.0,
+            "relation_type": "STARRING",
+            "connecting_entity_type": "Actor",
+            "connecting_entity_value": "Harrison Ford",
+            "path_score": 0.85
+          },
+          {
+            "user_id": 48,
+            "recommended_movie_id": 3174,
+            "anchor_movie_id": 1210,
+            "anchor_movie_title": "Star Wars: Episode VI - Return of the Jedi",
+            "anchor_rating": 5.0,
+            "relation_type": "STARRING",
+            "connecting_entity_type": "Actor",
+            "connecting_entity_value": "Harrison Ford",
+            "path_score": 0.85
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "movie_id": 2369,
+        "title": "Desperately Seeking Susan",
+        "year": 1985,
+        "genres": [
+          "Comedy",
+          "Romance"
+        ],
+        "affinity_score": 0.9968,
+        "narrative_explanation": "Recommended because you rated **Singin' in the Rain** (5.0\u2605), which was also directed by **Penny Marshall**.",
+        "paths": [
+          {
+            "user_id": 48,
+            "recommended_movie_id": 2369,
+            "anchor_movie_id": 899,
+            "anchor_movie_title": "Singin' in the Rain",
+            "anchor_rating": 5.0,
+            "relation_type": "DIRECTED_BY",
+            "connecting_entity_type": "Director",
+            "connecting_entity_value": "Penny Marshall",
+            "path_score": 1.0
+          },
+          {
+            "user_id": 48,
+            "recommended_movie_id": 2369,
+            "anchor_movie_id": 3142,
+            "anchor_movie_title": "U2: Rattle and Hum",
+            "anchor_rating": 5.0,
+            "relation_type": "STARRING",
+            "connecting_entity_type": "Actor",
+            "connecting_entity_value": "Kevin Spacey",
+            "path_score": 0.85
+          },
+          {
+            "user_id": 48,
+            "recommended_movie_id": 2369,
+            "anchor_movie_id": 902,
+            "anchor_movie_title": "Breakfast at Tiffany's",
+            "anchor_rating": 5.0,
+            "relation_type": "STARRING",
+            "connecting_entity_type": "Actor",
+            "connecting_entity_value": "Kevin Spacey",
+            "path_score": 0.85
+          }
+        ]
+      }
+    ]
+  }
+]
